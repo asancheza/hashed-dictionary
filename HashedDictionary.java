@@ -326,7 +326,7 @@ public class HashedDictionary implements DictionaryInterface, Serializable {
       return inTable;
     }
     
-    public boolean isRemoved() // opposite of contains {
+    public boolean isRemoved() {
       return !inTable;
     }
 

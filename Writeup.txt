@@ -1,0 +1,3 @@
+The hardest part was having an implementation without null pointer exceptions and arroy bound limits in the first versions.
+
+I implemented first using the Hashmap from java util.
